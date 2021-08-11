@@ -7,8 +7,10 @@ Performing analysis on kickstarter data to uncover trends
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+The analysis was performed by first breaking up the data to show the outcomes for all theater crowdfunding campaigns based on launch date.
+![Theater_Outcomes_vs_Launch](https://github.com/jaousley/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
+Next the data was filtered to show the outcome of specific campaign types based on goals. By showing the success and failure rate of only plays based on the campaigns goal dollar amount a prediction can be made about Louise’s possibility of success. 
 ![Outcomes_vs_Goals](https://github.com/jaousley/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
