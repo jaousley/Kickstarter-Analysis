@@ -9,7 +9,7 @@ Performing analysis on kickstarter data to uncover trends for Louise play
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![Outcomes_vs_Goals](https://github.com/jaousley/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
